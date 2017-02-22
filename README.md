@@ -13,8 +13,8 @@ Se for site, é responsivo?
 
             Financial System
             
-1)R C#.
-2)R Feitosa.
-3)R Todo tempo possivel.
+1)R C#,Mysql.
+2)R FeitoTeam.
+3)R Até 22 de maio (beta revisado com poucas modificações para a versão final).
 4)R Facil utilização e simples aplicação.
-5)R Todos windons e Macs.
+5)R Todos windons e Macs e talvez Linux.
